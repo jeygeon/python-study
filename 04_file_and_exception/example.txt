@@ -1,3 +1,1 @@
-hello python
-hello yoongeon
-hello data
+hello python too
